@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nl3rz
-- 👀 I’m interested in web development and mobile applications
-- 🌱 I’m currently learning XAML, C#, & Python
+- 👀 I’m interested in data analytics, web development, mobile applications, static site generation, and developer relations.
+- 🌱 I’m currently learning XAML, C#, & Python.  I'm always exploring the latest technologies.
 - 💞️ I’m looking to collaborate on any of the projects I'm working on or available to help where needed.
 - 📫 Send me a note: nl3@nl3.dev
